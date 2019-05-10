@@ -1,0 +1,2 @@
+# SGD-parallel
+For homework
